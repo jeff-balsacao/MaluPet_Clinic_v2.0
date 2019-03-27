@@ -1,4 +1,0 @@
-applications:
-- name: node-malupet-clinic-ltd
-  memory: 128M
-  buildpack: sdk-for-nodejs
